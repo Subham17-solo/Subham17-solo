@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subham17-solo
-- 👀 I’m interested in learning from Data Analytics to Data Scientist !
+- 👀 I’m interested in learning about data data data !
 - 🌱 I’m currently choosing different projects and geeting up to date with the tech things.
 - 💞️ I’m looking to collaborate on Projects, Documentations Work, Images, News, Data, Automation & Python related codes.
   
