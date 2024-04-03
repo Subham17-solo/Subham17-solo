@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m Subham 
-- 👀 I’m interested in learning about Data, Data Analytics & Data Scientist!
+- 👀 I’m interested in learning about Data, Data Analytics & Data Science !
 - 🌱 I’m currently choosing different projects and geeting up to date with the tech things.
 - 💞️ I’m looking to collaborate on Projects, Documentations Work, Images, News, Data, Automation & Python related codes.
   
